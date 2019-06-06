@@ -4,9 +4,9 @@
         <div class="head-title">新手教程</div>
 
         <div class="video-bg">
-            <video src="@/assets/video/meng.mp4" controls></video>
+            <video src="../assets/video/meng.mp4" controls></video>
             <!-- <button class="video-play-btn" @click="playVideo">
-                <img class="video-play-img" src="@/assets/video_playBtn.png" alt="">
+                <img class="video-play-img" src="../assets/video_playBtn.png" alt="">
             </button> -->
         </div>
         

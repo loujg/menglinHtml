@@ -7,18 +7,18 @@
         
         <div class="xinren-title">1：点开APP记住证书名</div>
         <div class="xinren-img-bg">
-            <img class="xinren-img" src="@/assets/xinren1.jpg" alt="">
+            <img class="xinren-img" src="../assets/xinren1.jpg" alt="">
         </div>
 
         <div class="xinren-title">2.在【设置】->【通用】->【描述文件与设备管理】找到对应证书</div>
         <div class="xinren-img-bg">
-            <img class="xinren-img" src="@/assets/xinren2.jpg" alt="">
+            <img class="xinren-img" src="../assets/xinren2.jpg" alt="">
         </div>
 
         <div class="xinren-title">3.信任证书</div>
         <div class="xinren-img-bg">
-            <img class="xinren-img" src="@/assets/xinren3.jpg" alt="">
-            <img class="xinren-img" src="@/assets/xinren4.jpg" alt="">
+            <img class="xinren-img" src="../assets/xinren3.jpg" alt="">
+            <img class="xinren-img" src="../assets/xinren4.jpg" alt="">
         </div>
 
         <div class="xinren-desc">安装使用一段时间出现：“闪退”、“打不开”、“信任不了”，请卸载重新安装信任即可！</div>

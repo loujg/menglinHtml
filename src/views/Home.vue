@@ -2,11 +2,11 @@
   <div class="common-bg">
     <div class="head-title">试玩大全</div>
 
-    <img class="head-img" src="@/assets/home1.png" alt="">
+    <img class="head-img" src="../assets/home1.png" alt="">
 
     <div class="safari-bg common-padding">
       <div class="safari-left">
-        <img class="safari-left-img" src="@/assets/喇叭.png" alt="">
+        <img class="safari-left-img" src="../assets/喇叭.png" alt="">
         <div class="safari-left-text">请用Safari打开平台下载</div>
       </div>
       <router-link to="/HelpCourse">
@@ -16,21 +16,21 @@
 
     <li class="type-bg">
       <router-link to="/HelpCourse">
-        <img src="@/assets/hometype1.png" alt="">
+        <img src="../assets/hometype1.png" alt="">
       </router-link>
       <router-link to="/Question">
-        <img src="@/assets/hometype2.png" alt="">
+        <img src="../assets/hometype2.png" alt="">
       </router-link>
       <router-link to="/Attention">
-        <img src="@/assets/hometype3.png" alt="">
+        <img src="../assets/hometype3.png" alt="">
       </router-link>
       <router-link to="/Contact">
-        <img src="@/assets/hometype4.png" alt="">
+        <img src="../assets/hometype4.png" alt="">
       </router-link>
     </li>
 
     <div class="safari-left common-padding">
-      <img class="safari-left-img" src="@/assets/喇叭.png" alt="">
+      <img class="safari-left-img" src="../assets/喇叭.png" alt="">
       <div class="safari-left-text-1">《需多台手机操作及推广 请联系客服》</div>
     </div>
 
