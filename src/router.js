@@ -10,7 +10,6 @@ import Xinren from './views/Xinren.vue'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',  // 去掉网址链接中的#号
   routes: [
     {
       path: '/',
