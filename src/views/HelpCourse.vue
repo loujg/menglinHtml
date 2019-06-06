@@ -4,9 +4,9 @@
         <div class="head-title">新手教程</div>
 
         <div class="video-bg">
-            <video src="../assets/video/meng.mp4" controls></video>
+            <video src="@/assets/video/meng.mp4" controls></video>
             <!-- <button class="video-play-btn" @click="playVideo">
-                <img class="video-play-img" src="../assets/video_playBtn.png" alt="">
+                <img class="video-play-img" src="@/assets/video_playBtn.png" alt="">
             </button> -->
         </div>
         
@@ -41,7 +41,9 @@
                 <div class="info-question-example-desc-1">“美女直播”</div>
                 就会发现搜索结果有几百个关于美女直播的应用。软件开发商为了让应用在App Store排名靠前，就付费让用户下载试玩，来提升搜索排名。我们挣的奖励就是软件开发商付的试玩推广费。
             </div>
-            <img class="info-question-example-img" src="http://pic.96weixin.com/ueditor/20190415/1555260013265877.jpg" alt="">
+            <div class="info-question-example-img-bg">
+                <img src="http://pic.96weixin.com/ueditor/20190415/1555260013265877.jpg" alt="">
+            </div>
 
             <div class="info-question-title-bg">
                 <div class="info-question-title-number">4</div>
@@ -97,6 +99,6 @@ video{position: relative;display: block;width: 100%;height: 100%;top: 0;left: 0;
 .info-question-example{color: #ff4c41;font-size: 12px;text-decoration: underline;}
 .info-question-example-desc{font-size: 14px;display: flex;flex-direction: row;}
 .info-question-example-desc-1{font-size: 14px;text-decoration: underline;}
-.info-question-example-img{margin-top: 5px;margin-bottom: 30px;}
+.info-question-example-img-bg{margin-top: 5px;margin-bottom: 30px;display: flex;flex-direction: row;justify-content: center;align-items: center;}
 
 </style>

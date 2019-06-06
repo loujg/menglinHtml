@@ -4,10 +4,10 @@
         <div class="head-title">联系我们</div>
         
         <div class="question-img-bg">
-            <img class="question-img2" src="../assets/放大镜.png" alt="">
-            <img class="question-img-qr" src="../assets/二维码.png" alt="">
+            <img class="question-img2" src="@/assets/放大镜.png" alt="">
+            <img class="question-img-qr" src="@/assets/二维码.png" alt="">
         </div>
-        <img src="../assets/放大镜1.png" alt="">
+        <img src="@/assets/放大镜1.png" alt="">
 
         <div class="question-desc2">长按识别二维码联系我们</div>
     </div>
