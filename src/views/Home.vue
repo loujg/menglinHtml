@@ -2,7 +2,9 @@
   <div class="common-bg">
     <div class="head-title">试玩大全</div>
 
-    <img class="head-img" src="../assets/home1.png" alt="">
+    <div class="video-bg">
+      <video src="../assets/video/meng2.mp4" controls></video>
+    </div>
 
     <div class="safari-bg common-padding">
       <div class="safari-left">
@@ -84,7 +86,7 @@ a:link{text-decoration:none;} /* 去掉a标签文字下划线 */
 
 .head-title{font-size: 20px;text-align: center;}
 
-.head-img{margin-top: 10px;width: 100%;}
+.video-bg{position: relative;display: flex;justify-content: center;align-items: center;margin-top: 10px;margin-left: 20px;margin-right: 20px;height: 180px;overflow: hidden;}
 
 .safari-bg{margin-top: 10px;display: flex;flex-direction: row;align-items: center;justify-content: space-between;}
 .safari-left{display: flex;flex-direction: row;align-items: center;}
